@@ -1,0 +1,78 @@
+{
+  "studiengang": "B.Sc. Cyber Security",
+  "studienmodell": "TEILZEIT_II",
+  "zielnotenschnitt": 2.0,
+  "module": [
+    {
+      "modulname": "Einführung in Datenschutz und IT-Sicherheit",
+      "ects": 5,
+      "status": "BESTANDEN",
+      "subjektive_schwierigkeit": "MITTEL",
+      "pruefungsleistung": {
+        "pruefungsart": "KLAUSUR",
+        "geplante_abgabe": null,
+        "tatsaechliche_abgabe": "2026-04-01",
+        "bewertung_erwartet_am": null,
+        "note": {
+          "wert": 2.0,
+          "bewertungsdatum": "2026-04-01"
+        }
+      }
+    },
+    {
+      "modulname": "Kryptografische Verfahren",
+      "ects": 5,
+      "status": "ABGEGEBEN",
+      "subjektive_schwierigkeit": "SCHWER",
+      "pruefungsleistung": {
+        "pruefungsart": "FALLSTUDIE",
+        "geplante_abgabe": "2026-05-14",
+        "tatsaechliche_abgabe": "2026-05-14",
+        "bewertung_erwartet_am": "2026-07-12",
+        "note": null
+      }
+    },
+    {
+      "modulname": "Standards der Informationssicherheit",
+      "ects": 5,
+      "status": "ABGEGEBEN",
+      "subjektive_schwierigkeit": "MITTEL",
+      "pruefungsleistung": {
+        "pruefungsart": "FALLSTUDIE",
+        "geplante_abgabe": "2026-05-10",
+        "tatsaechliche_abgabe": "2026-05-10",
+        "bewertung_erwartet_am": "2026-07-12",
+        "note": null
+      }
+    },
+    {
+      "modulname": "Seminar: Aktuelle Themen in Computer Science",
+      "ects": 5,
+      "status": "BESTANDEN",
+      "subjektive_schwierigkeit": "LEICHT",
+      "pruefungsleistung": {
+        "pruefungsart": "SEMINARARBEIT",
+        "geplante_abgabe": "2026-05-14",
+        "tatsaechliche_abgabe": "2026-05-14",
+        "bewertung_erwartet_am": "2026-07-12",
+        "note": {
+          "wert": 1.3,
+          "bewertungsdatum": "2026-05-22"
+        }
+      }
+    },
+    {
+      "modulname": "Objektorientierte und funktionale Programmierung mit Python",
+      "ects": 5,
+      "status": "IN_BEARBEITUNG",
+      "subjektive_schwierigkeit": "MITTEL",
+      "pruefungsleistung": {
+        "pruefungsart": "PORTFOLIO",
+        "geplante_abgabe": "2026-05-28",
+        "tatsaechliche_abgabe": null,
+        "bewertung_erwartet_am": null,
+        "note": null
+      }
+    }
+  ]
+}
